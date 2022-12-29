@@ -1,0 +1,55 @@
+c:\users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe.config
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\pharmacy.mdf
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\pharmacy_log.ldf
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Customer.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Form1.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Home.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Payment.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Products.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Sales.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Supplier.resources
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\dell\documents\visual studio 2015\Projects\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.pdb
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\pharmacy.mdf
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\pharmacy_log.ldf
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe.config
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.pdb
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.AssemblyReference.cache
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Customer.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Form1.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Home.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Payment.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Products.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Properties.Resources.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Sales.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Supplier.resources
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\Sagar\Desktop\C# Programe\PharmacyManagementSystemCSharp\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.pdb
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\bin\Debug\pharmacy.mdf
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\bin\Debug\pharmacy_log.ldf
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe.config
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\bin\Debug\PharmacyManagementSystemCSharp.pdb
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.AssemblyReference.cache
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Customer.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Form1.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Home.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Payment.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Products.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Properties.Resources.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Sales.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.Supplier.resources
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.GenerateResource.cache
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.exe
+C:\Users\Sagar\Desktop\C# Programe\PMS\PharmacyManagementSystemCSharp\obj\Debug\PharmacyManagementSystemCSharp.pdb
